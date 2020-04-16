@@ -10,19 +10,11 @@
 	<HOTSPOT 
 		ID="1"
 		NAME="Simple Caption Hotspot"
-		MEDIATYPE="icon"
-		MEDIA="Assets/Hotspots/Hotspots1/hotspotFromJPG.jpg"
 		X="225"
 		Y="1375"
 		ZOOM="100" 
 		XSCALE="100"
 		YSCALE="100"
-		CLICKURL="http://www.zoomify.com"
-		URLTARGET="_self"
-		ROLLOVER="0"
-		CAPTION="Simple Caption"
-		TOOLTIP="This is a simple tooltip."
-		TEXTCOLOR="FFFFFF" >
 	</HOTSPOT>
 	<HOTSPOT 
 		ID="2"
