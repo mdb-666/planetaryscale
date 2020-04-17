@@ -2,35 +2,28 @@
 	<SETUP 
 		CHOICELIST="2" 
 		LISTSOURCE="NAME"
-		LISTTITLE="Hotspots"
+		LISTTITLE="PlanetaryRecords"
 		INITIALVISIBILITY="1" 
 		MINSCALE="0.25"
 		MAXSCALE="2" >
 	</SETUP>
 	<HOTSPOT 
 		ID="1"
-		NAME="Simple Caption Hotspot"
-		X="225"
-		Y="1375"
-		ZOOM="100" 
-		XSCALE="100"
-		YSCALE="100"
-	</HOTSPOT>
-	<HOTSPOT 
-		ID="2"
-		NAME="Transparent PNG Hotspot"
+		NAME="Submarine Cables"
 		MEDIATYPE="icon"
-		MEDIA="Assets/Hotspots/Hotspots1/hotspotFromPNG.png"
-		X="525"
-		Y="1375"
-		ZOOM="100" 
+		MEDIA="Assets\Hotspots\Hotspots1\cables.gif"
+		X="0"
+		Y="0"
+		ZOOM="50" 
 		XSCALE="100"
 		YSCALE="100"
+		ZMIN="50"
+		ZMAX="0"
 		CLICKURL="http://www.viewthewall.com"
 		URLTARGET="_blank"
 		ROLLOVER="0"
-		CAPTION="Transparent PNG Hotspot%0D%0AWith Multiline Caption"
-		TOOLTIP="This hotspot's graphic includes transparent areas."
+		CAPTION="0"
+		TOOLTIP="testing"
 		TEXTCOLOR="FFFFFF" >
 	</HOTSPOT>
 	<HOTSPOT 
